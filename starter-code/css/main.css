@@ -1,0 +1,28 @@
+
+
+/* =============================================== */
+
+section:nth-of-type(2) {
+    text-align: center;
+}
+
+#underline {
+    border-bottom: 5px solid var(--spotify);
+    text-align: center;
+    display: inline;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    background-color: tomato;
+}
+
+.wrapper img{
+    height: 100px;
+}
+
+
+footer{
+    background-color: darkslategray;
+}
